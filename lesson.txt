@@ -1,0 +1,2 @@
+- show running containers
+- docker run nginx
