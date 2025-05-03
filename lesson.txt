@@ -9,3 +9,5 @@ May 3
 - docker ps to show images running
 - docker start
 - docker stop
+- docker rm
+
