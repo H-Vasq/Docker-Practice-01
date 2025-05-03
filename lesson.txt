@@ -1,2 +1,10 @@
+May 3
+
 - show running containers
 - docker run nginx
+
+-----------
+
+- docker images, to show images
+- docker ps to show images running
+- docker start
