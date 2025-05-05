@@ -11,3 +11,8 @@ May 3
 - docker stop
 - docker rm
 
+May 5
+
+- practice bash
+- confirm bash is instanlled
+- confirm shell is bash
