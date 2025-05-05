@@ -21,4 +21,4 @@ May 5
 - lecture about builtin commands
 - lecture on parens, braces, brackets
 - lecture on ~
-- lecture on brace expansion; echo numbers with braces 
+- lecture on brace expansion; echo numbers with braces, other uses with braces
