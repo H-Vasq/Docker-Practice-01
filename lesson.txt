@@ -19,3 +19,6 @@ May 5
 - use cat to read a file in terminal
 - count lines, words, characters in a file using cat + file name + | + wc
 - lecture about builtin commands
+- lecture on parens, braces, brackets
+- lecture on ~
+- lecture on brace expansion; echo numbers with braces, other uses with braces
