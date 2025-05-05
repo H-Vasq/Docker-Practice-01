@@ -18,3 +18,4 @@ May 5
 - confirm shell is bash
 - use cat to read a file in terminal
 - count lines, words, characters in a file using cat + file name + | + wc
+- lecture about builtin commands
