@@ -13,4 +13,5 @@ May 3
 
 May 5
 
-- practic
+- practice bash
+- confirm bash is instanlled
