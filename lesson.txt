@@ -20,3 +20,5 @@ May 5
 - count lines, words, characters in a file using cat + file name + | + wc
 - lecture about builtin commands
 - lecture on parens, braces, brackets
+- lecture on ~
+- lecture on brace expansion; echo numbers with braces 
