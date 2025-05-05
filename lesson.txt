@@ -16,3 +16,5 @@ May 5
 - practice bash
 - confirm bash is instanlled
 - confirm shell is bash
+- use cat to read a file in terminal
+- count lines, words, characters in a file using cat + file name + | + wc
